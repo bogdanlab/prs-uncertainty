@@ -1,4 +1,4 @@
-## Estimate PRS Uncertainty for Biobank
+# Estimate PRS Uncertainty for Biobank
 Here we demonstrate how to estimate PRS uncertainty (full posterior distribution of genetic value) as described in [Large uncertainty in individual PRS estimation impacts PRS-based risk stratification](https://doi.org/10.1101/2020.11.30.403188). 
 
 ## Data
